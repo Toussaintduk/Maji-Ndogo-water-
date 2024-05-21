@@ -4,12 +4,15 @@
 
 The Maji Ndogo Project aims to address the critical issue of clean water access in relation to Sustainable Development Goal 4 (SDG 4), which focuses on ensuring inclusive and equitable quality education and promoting lifelong learning opportunities for all. This project, conducted by Explore AI Academy South Africa, leverages the power of Artificial Intelligence (AI) to gather insights, conduct surveys, and restore hope through clean water initiatives.
 
+**there is Video Description  of Restoring the flow ,Rebuilding Hope of clean water**
+
 ## Objectives
 
 1. **Analyze the current state of water access and quality** in the Maji Ndogo region.
 2. **Conduct surveys** to gather data on water basics, focusing on availability, quality, and community impact.
 3. **Restore clean water access**, ensuring it aligns goals of SDG 4.
 4. **Demonstrate the power of AI** in fostering sustainable solutions for clean water.
+
 
 ## Methodology
 
@@ -28,12 +31,11 @@ Utilize AI tools and techniques to analyze the collected data. This includes:
 ### Implementation
 
 1. **Water Infrastructure Improvement**: Based on the insights gained, collaborate with local authorities to improve water infrastructure.
-2. **Education and Awareness Programs**: Launch initiatives to educate the community about water conservation and hygiene practices.
-3. **Monitoring and Evaluation**: Establish a system to continuously monitor water quality and access, ensuring sustainable improvements.
+2. **Monitoring and Evaluation**: Establish a system to continuously monitor water quality and access, ensuring sustainable improvements.
 
 ### Data Visualization 
 1. **Using Microsoft PowerBi**: Based on the insights gained, collaborate with local authorities to improve water infrastructure.
-2.**Creating Dasboard on Project Monitoring** :the project management ,budgeting and track the improvement 
+2. **Creating Dasboard on Project Monitoring** :the project management ,budgeting and track the improvement 
 
 ## Results
 
