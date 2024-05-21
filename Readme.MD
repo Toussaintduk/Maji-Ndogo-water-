@@ -8,7 +8,7 @@ The Maji Ndogo Project aims to address the critical issue of clean water access 
 
 1. **Analyze the current state of water access and quality** in the Maji Ndogo region.
 2. **Conduct surveys** to gather data on water basics, focusing on availability, quality, and community impact.
-3. **Restore clean water access**, ensuring it aligns with the educational goals of SDG 4.
+3. **Restore clean water access**, ensuring it aligns goals of SDG 4.
 4. **Demonstrate the power of AI** in fostering sustainable solutions for clean water.
 
 ## Methodology
@@ -16,8 +16,7 @@ The Maji Ndogo Project aims to address the critical issue of clean water access 
 ### Data Collection
 
 1. **Surveys**: Deploy comprehensive surveys in the Maji Ndogo region to collect data on water sources, quality, and accessibility.
-2. **Interviews**: Conduct interviews with community members, educators, and local leaders to understand the impact of water access on education.
-3. **Observation**: Observe and document the condition of water sources and infrastructure.
+2. **Observation**: Observe and document the condition of water sources and infrastructure.
 
 ### Data Analysis
 
@@ -32,15 +31,18 @@ Utilize AI tools and techniques to analyze the collected data. This includes:
 2. **Education and Awareness Programs**: Launch initiatives to educate the community about water conservation and hygiene practices.
 3. **Monitoring and Evaluation**: Establish a system to continuously monitor water quality and access, ensuring sustainable improvements.
 
+### Data Visualization 
+1. **Using Microsoft PowerBi**: Based on the insights gained, collaborate with local authorities to improve water infrastructure.
+2.**Creating Dasboard on Project Monitoring** :the project management ,budgeting and track the improvement 
+
 ## Results
 
 - **Improved Water Access**: Enhanced access to clean water for the Maji Ndogo community.
-- **Educational Impact**: Positive effects on school attendance and performance due to reliable clean water access.
 - **Community Empowerment**: Increased awareness and engagement in water conservation efforts.
 
 ## Conclusion
 
-The Maji Ndogo Project highlights the significant role of AI in addressing clean water challenges, demonstrating that innovative technological solutions can foster sustainable development. By aligning with SDG 4, this project not only improves water access but also enhances educational opportunities, ultimately restoring hope and creating a brighter future for the Maji Ndogo community.
+The Maji Ndogo Project highlights the significant role of AI in addressing clean water challenges, demonstrating that innovative technological solutions can foster sustainable development. By aligning with SDG 4, this project not only improves water access, ultimately restoring hope and creating a brighter future for the Maji Ndogo community.
 
 ## Acknowledgements
 
