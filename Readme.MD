@@ -1,8 +1,8 @@
-# Maji Ndogo Project: Analyzing and Surveying Water Basics in Relation to SDG 4
+# Maji Ndogo Project: Analyzing and Surveying Basic access to Clean water to Community of Maji Ndogo in Relation to SDG 4
 
 ## Overview
 
-The Maji Ndogo Project aims to address the critical issue of clean water access in relation to Sustainable Development Goal 4 (SDG 4), which focuses on ensuring inclusive and equitable quality education and promoting lifelong learning opportunities for all. This project, conducted by Explore AI Academy South Africa, leverages the power of Artificial Intelligence (AI) to gather insights, conduct surveys, and restore hope through clean water initiatives.
+The Maji Ndogo Project aims to address the critical issue of clean water access in relation to Sustainable Development Goal 4 (SDG 4), which focuses on  promoting  well being of people for all. This project, conducted by Explore AI Academy South Africa, leverages the power of Artificial Intelligence (AI) to gather insights, conduct surveys, and restore hope through clean water initiatives.
 
 **there is Video Description  of Restoring the flow ,Rebuilding Hope of clean water**
 
